@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+* {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  text-decoration: none;
+  color: inherit;
+}
+
+@media (max-width: 576px) {
+}
+
+@media (min-width: 576px) and (max-width: 768px) {
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+}
+
+@media (min-width: 1200px) {
+  body {
+    margin: 0;
+    padding: 0;
+  }
+  header {
+    background-image: url("photos/header-bg.png");
+    margin: 0px 0px 0px 0px;
+    width: 1264px;
+    height: 720px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  nav {
+    background-color: rgba(255, 228, 196, 0);
+    height: 44.781px;
+    width: 1168px;
+    display: flex;
+    justify-content: space-between;
+    padding: 32px 16px 32px 16px;
+  }
+  img {
+    width: 203.104px;
+    height: 44.781px;
+  }
+  .bruh {
+    width: 500px;
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .pic_contianer {
+    background-color: rgba(0, 255, 255, 0);
+    width: 1200px;
+    height: 584.21px;
+    padding: 80px 16px 80px 16px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+  }
+
+  h2 {
+    height: 109.33px;
+    width: 400px;
+    border: dotted;
+    color: rgba(70, 38, 6, 0.769);
+    text-align: center;
+    align-content: center;
+  }
+  .burger-week {
+    width: 300px;
+    height: 120.67px;
+  }
+  .h-pic {
+    width: 600px;
+    height: 400px;
+    margin-left: 200px;
+  }
+}
