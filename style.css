@@ -7,6 +7,13 @@
   text-decoration: none;
   color: inherit;
 }
+@media (min-width: 576px) and (max-width: 768px) { 
+
+
+
+
+
+ } 
 
 @media (min-width: 1200px) {
   body {
@@ -185,4 +192,219 @@
   }
   .left {
   }
+
+
+
+  .pro1{
+    
+              background-color: rgba(245, 245, 220, 0);
+              font-size: xx-large;
+
+  }
+  .pro2{
+    
+                background-color: rgba(245, 245, 220, 0);
+                font-size: xx-large;
+}
+.pro3{
+   
+                background-color: rgba(245, 245, 220, 0);
+                font-size: xx-large;
+              
+}
+.pro4{
+
+  text-align: center; margin-left: 30px;
+}
+
+
+
+.pro5{
+
+   
+            width: 260.51px;
+            text-align: center;
+            height: 20.333px;
+            margin-bottom: 16px;
+            padding: 8px 32px 8px 32px;
+            background-color: rgb(241, 188, 11);
+            white-space: nowrap;
+            display: inline-block;
+          
+}
+.pro6{
+  width: 500px; height: 60px; margin-bottom: 16px;
+}
+.pro7{
+
+  font-weight: lighter;
+}
+.pro8{
+
+ 
+                width: 250px;
+                height: 198.094px;
+                margin: 0px 43px 32px 43px;
+              
+}
+.pro9{
+
+  font-size: x-large; margin-top: 0px; margin-bottom: 16px;
+}
+.pro10{
+  
+                font-weight: 500;
+                text-align: center;
+                line-height: 1.6;
+                margin-bottom: 16px;
+            
+}
+.pro11{
+                width: 121.333px;
+                display: flex;
+                margin-left: 100px;
+                justify-content: center;
+                align-items: center;
+                height: 38.667px;
+                border: none;
+                padding: 25px 70px 25px 70px;
+              
+}
+.pro12{
+    
+                width: 250px;
+                height: 198.094px;
+                margin: 0px 43px 32px 43px;
+              
+}
+.pro13{
+ font-size: x-large; margin-top: 0px; margin-bottom: 16px;
+}
+.pro14{
+
+ 
+                font-weight: 500;
+                text-align: center;
+                line-height: 1.6;
+                margin-bottom: 16px;
+              
+}
+.pro15{
+ 
+              width: 121.333px;
+                display: flex;
+                margin-left: 100px;
+                justify-content: center;
+                align-items: center;
+                height: 38.667px;
+                border: none;
+                padding: 25px 70px 25px 70px;
+              
+}
+.pro16{
+ 
+                width: 250px;
+                height: 198.094px;
+                margin: 0px 43px 32px 43px;
+              
+}
+.pro17{
+  font-size: x-large; margin-top: 0px; margin-bottom: 16px;
+}
+.pro18{
+  
+                font-weight: 500;
+                text-align: center;
+                line-height: 1.6;
+                margin-bottom: 16px;
+              
+}
+.pro19{
+  
+                width: 121.333px;
+                display: flex;
+                margin-left: 100px;
+                justify-content: center;
+                align-items: center;
+                height: 38.667px;
+                border: none;
+                padding: 25px 70px 25px 70px;
+              
+}
+.pro20{
+
+  margin-left: 45px; background-color: rgb(255, 255, 255);
+}
+.pro21{
+   
+            font-size: x-large;
+            font-weight: bold;
+            margin-bottom: 10px;
+            margin-top: 40px;
+          
+
+}
+.pro22{width: 552px; height: 60px;}
+.pro23{
+  
+            width: 552px;
+            height: 196px;
+            line-height: 1.7;
+            font-weight: 400;
+          
+}
+.pro24{
+width: 552px; height: 368.553px
+}
+.pro25{
+  
+          display: flex;
+          flex-direction: row;
+
+          justify-content: space-around;
+          width: 1265px;
+          height: 500px;
+         
+          
+          flex-direction: row;
+          margin-top: 120px;
+        
+
+
+}
+.pro26{
+ width: 250px;
+ height: fit-content;
+}
+.pro27{
+  
+            width: 600px;
+            font-size: xx-large;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            flex-wrap: wrap;
+            
+          
+}
+.pro28{
+  margin-top: 30px;
+}
+.pro29{
+  height: 40px; width: 400px;
+}
+.pro30{
+  width: fit-content; height: fit-content; margin-left: 50px;
+}
+.pro31{
+  color: azure; width:400px; line-height: 1.6;
+}
+.pro32{
+z-index: 1; line-height: 1.6;
+}
+.pro33{
+ color: aliceblue;
+}
+
 }
